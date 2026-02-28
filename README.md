@@ -84,5 +84,5 @@ Designing a professional 2-page dashboard:
 - Generated comprehensive PDF reporting for stakeholders.
 
 ---
-**Author:** *[Intern Name]*  
-**Project Date:** February 2026
+
+
